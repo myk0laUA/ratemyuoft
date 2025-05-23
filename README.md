@@ -2,7 +2,7 @@
 # Team NPCs (Mykola, Mason, Michael, Elang, Shawn, John)
 
 
-## KolyaLovesMarlboro(Mykola Zhuk on Quercus contributions):
+## myk0laUA(Mykola Zhuk on Quercus contributions):
 I implemented 1st branch that was merged to main(1-log-in) which included Register/LogIn/ShowUsers/LogOut use cases.
 I also made the base of the CLI(WelcomeMenu, MainMenu,Login,Register,ShowUsers classes). I tried to make the CLI as 
 modular as possible, so that my teammates wouldn't have any trouble merging with main. I believe it was a great success
